@@ -1,1 +1,6 @@
-No  operador ==, é verificado se os valores são iguais, já no operador === é verificado o valor e também se os tipos das variáveis são iguais.
+Explicação correta
+Nota: 2.0
+
+No  operador ==, é verificado se os valores são iguais, 
+já no operador === é verificado o valor e também se os 
+tipos das variáveis são iguais.
